@@ -4,7 +4,7 @@ TOPICS COVERED:-
 
 DATE:-21-01-25
 TOPICS COVERED:-
-*Learned java data types, variables, basic Arithmetic Operations, type conversion and taking input from user.
+*Learned java data types, variables, basic Arithmetic Operations, type conversion & taking input from user.
 
 DATE:-22-01-25
 TOPICS COVERED:-
@@ -12,4 +12,4 @@ TOPICS COVERED:-
 
 DATE:-23-01-25
 TOPICS COVERED:-
-*Learned arrays and its properties, multi-dimensional array, 2-D array, usage of java system error() and exit() method.
+*Learned arrays and its properties, multi-dimensional array, 2-D array, usage of java system error() & exit() method.
