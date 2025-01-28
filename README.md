@@ -13,3 +13,7 @@ TOPICS COVERED:-
 DATE:-23-01-25
 TOPICS COVERED:-
 *Learned arrays and its properties, multi-dimensional array, 2-D array, java system error() & exit() method.
+
+DATE:-27-01-25
+TOPICS COVERED:-
+*Learned user defined methods, recursive methods, static methods, standard library methods and java.lang.Math class
