@@ -21,3 +21,7 @@ TOPICS COVERED:-
 DATE:-28-01-25
 TOPICS COVERED:-
 *Learned java string handling basic concepts, common buit-in functions(random,math).
+
+DATE:-30-01-25
+TOPICS COVERED:-
+*Procedural Programming vs OOP, concept of class and object.
