@@ -1,5 +1,5 @@
 import java.util.*;
-public class ques12 {
+public class ReplaceSpecificWord {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a sentence: ");

@@ -1,5 +1,5 @@
 import java.util.*;
-public class ques9 {
+public class FrequentChar {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a string: ");
