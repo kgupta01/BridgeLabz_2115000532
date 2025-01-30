@@ -1,5 +1,5 @@
 import java.util.*;
-public class ques7 {
+public class GCD_LCMCalculator {
     public static int takeInput() {
         Scanner scanner = new Scanner(System.in);
         return scanner.nextInt();

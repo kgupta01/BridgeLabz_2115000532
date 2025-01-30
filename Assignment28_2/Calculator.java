@@ -1,5 +1,5 @@
 import java.util.*;
-public class ques9 {
+public class Calculator {
     public static double add(double a, double b) {
         return a + b;
     }

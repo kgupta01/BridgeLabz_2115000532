@@ -1,5 +1,5 @@
 import java.util.*;
-public class ques4 {
+public class FibonacciGenerator {
     public static void generateFibonacci(int terms) {
         int a = 0, b = 1;
         for (int i = 1; i <= terms; i++) {

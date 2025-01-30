@@ -1,5 +1,5 @@
 import java.util.*;
-public class ques2 {
+public class MaxOfThree {
     public static int takeInput() {
         Scanner scanner = new Scanner(System.in);
         return scanner.nextInt();

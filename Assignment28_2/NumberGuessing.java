@@ -1,5 +1,5 @@
 import java.util.*;
-public class ques1 {
+public class NumberGuessing {
     public static int generateGuess(int lower, int upper) {
         Random rand = new Random();
         return rand.nextInt(upper - lower + 1) + lower;

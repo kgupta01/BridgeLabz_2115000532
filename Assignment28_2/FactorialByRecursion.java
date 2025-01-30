@@ -1,5 +1,5 @@
 import java.util.*;
-public class ques6 {
+public class FactorialByRecursion {
     public static int takeInput() {
         Scanner scanner = new Scanner(System.in);
         return scanner.nextInt();
