@@ -1,7 +1,7 @@
 import java.time.ZonedDateTime;
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
-public class ques1 {
+public class CurrentTimeDiffZones {
     public static void main(String[] args) {
         ZonedDateTime gmtTime = ZonedDateTime.now(ZoneId.of("GMT"));
         ZonedDateTime istTime = ZonedDateTime.now(ZoneId.of("Asia/Kolkata"));
