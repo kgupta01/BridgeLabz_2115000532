@@ -25,3 +25,7 @@ TOPICS COVERED:-
 DATE:-30-01-25
 TOPICS COVERED:-
 *Procedural Programming vs OOP, concept of class and object.
+
+DATE:-31-01-25
+TOPICS COVERED:-
+*Java Constructors, Instance vs Class variables and access modifiers concepts.
