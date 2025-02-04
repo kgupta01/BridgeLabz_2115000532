@@ -1,6 +1,6 @@
 DATE:-19-01-25
 TOPICS COVERED:-
-*basic fundamental arithmetic operations.
+*Basic fundamental arithmetic operations.
 
 DATE:-21-01-25
 TOPICS COVERED:-
@@ -29,3 +29,7 @@ TOPICS COVERED:-
 DATE:-31-01-25
 TOPICS COVERED:-
 *Java Constructors, Instance vs Class variables and access modifiers concepts.
+
+DATE:-03-02-25
+TOPICS COVERED:-
+*Learned the use of this, final and static keyword and methods and instanceof operator.
