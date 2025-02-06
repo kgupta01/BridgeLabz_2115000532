@@ -33,3 +33,7 @@ TOPICS COVERED:-
 DATE:-03-02-25
 TOPICS COVERED:-
 *Learned the use of this, final and static keyword and methods and instanceof operator.
+
+DATE:-04-02-25
+TOPICS COVERED:-
+*Learned class diagrams, object diagrams, sequence diagrams and aggregation and association.
