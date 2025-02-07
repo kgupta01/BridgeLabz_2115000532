@@ -37,3 +37,7 @@ TOPICS COVERED:-
 DATE:-04-02-25
 TOPICS COVERED:-
 *Learned class diagrams, object diagrams, sequence diagrams and aggregation and association.
+
+DATE:-06-02-25
+TOPICS COVERED:-
+*Learned types of inheritance:- single, multilevel, hierarchical, constructor inheritance and key features of inheritance, method overriding, polymorphism.
