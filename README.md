@@ -40,4 +40,8 @@ TOPICS COVERED:-
 
 DATE:-06-02-25
 TOPICS COVERED:-
-*Learned types of inheritance:- single, multilevel, hierarchical, constructor inheritance and key features of inheritance, method overriding, polymorphism.
+*Learned types of inheritance:- single, multilevel, hierarchical, constructor inheritance and key features of inheritance, method overriding.
+
+DATE:-08-02-25
+TOPICS COVERED:-
+*Learned about encapsulation, polymorphism, use of interface and use of abstract classes.
