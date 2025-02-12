@@ -45,3 +45,7 @@ TOPICS COVERED:-
 DATE:-08-02-25
 TOPICS COVERED:-
 *Learned about encapsulation, polymorphism, use of interface and use of abstract classes.
+
+DATE:-11-02-25
+TOPICS COVERED:-
+*Learned the linked lists and its types:- single, double and circular linked lists.
