@@ -49,3 +49,7 @@ TOPICS COVERED:-
 DATE:-11-02-25
 TOPICS COVERED:-
 *Learned the linked lists and its types:- single, double and circular linked lists.
+
+DATE:-12-02-25
+TOPICS COVERED:-
+*Learned the implementation of stacks, queue and hash map.
