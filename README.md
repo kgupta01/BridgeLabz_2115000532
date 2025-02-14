@@ -53,3 +53,7 @@ TOPICS COVERED:-
 DATE:-12-02-25
 TOPICS COVERED:-
 *Learned the implementation of stacks, queue and hash map.
+
+DATE:-13-02-25
+TOPICS COVERED:-
+*Learned different types of sorting algorithms-Bubble sort, Insertion sort, Merge sort, Quick sort and etc.
