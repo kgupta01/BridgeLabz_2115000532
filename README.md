@@ -69,3 +69,7 @@ TOPICS COVERED:-
 DATE:-17-02-25
 TOPICS COVERED:-
 *learned about generics - types of parameters, classes, methods, and wildcards.
+
+DATE:-18-02-25
+TOPICS COVERED:-
+*learned about collection framework, its hierarchy, list and set interface and implementing its classes, queue and deque interfaces, map interface and there comparisons.
