@@ -73,3 +73,11 @@ TOPICS COVERED:-
 DATE:-18-02-25
 TOPICS COVERED:-
 *learned about collection framework, its hierarchy, list and set interface and implementing its classes, queue and deque interfaces, map interface and there comparisons.
+
+DATE:-19-02-25
+TOPICS COVERED:-
+*learned about java I/O streams- its types(file, object, bytearray and buffered streams).
+
+DATE:-20-02-25
+TOPICS COVERED:-
+*learned about exceptions and its types(checked, unchecked and custom) and to handle them using try-catch, throw, throws and finally.
