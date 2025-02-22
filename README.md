@@ -81,3 +81,7 @@ TOPICS COVERED:-
 DATE:-20-02-25
 TOPICS COVERED:-
 *learned about exceptions and its types(checked, unchecked and custom) and to handle them using try-catch, throw, throws and finally.
+
+DATE:-21-02-25
+TOPICS COVERED:-
+*learned about regex(api- pattern and matcher) and junit framework(its annotations, writing test cases, structure of test class) and assertions.
