@@ -85,3 +85,7 @@ TOPICS COVERED:-
 DATE:-21-02-25
 TOPICS COVERED:-
 *learned about regex(api- pattern and matcher) and junit framework(its annotations, writing test cases, structure of test class) and assertions.
+
+DATE:-22-02-25
+TOPICS COVERED:-
+*learned about annotations(built-in, custom, processing tools) and reflection and its usage.
